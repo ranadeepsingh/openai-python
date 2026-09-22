@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.18.1](https://github.com/openai/openai-python/compare/v3.18.0...v3.18.1) (2026-09-22)
+
+
+### Bug Fixes
+
+* **client:** retry only replayable request content ([#3771](https://github.com/openai/openai-python/issues/3771)) ([6e0c2be](https://github.com/openai/openai-python/commit/6e0c2beeb639e42ff74f14135151d8bcb1e5b245))
+
 ## [3.18.0](https://github.com/openai/openai-python/compare/v3.17.0...v3.18.0) (2026-09-22)
 
 
